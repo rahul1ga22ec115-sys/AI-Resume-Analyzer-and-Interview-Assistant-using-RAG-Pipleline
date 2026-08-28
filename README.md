@@ -249,6 +249,9 @@ Explainable outputs
 Uses the user's own documents
 
 
+Output screenshots
+<img width="1536" height="1024" alt="WhatsApp Image 2026-08-28 at 8 09 18 PM" src="https://github.com/user-attachments/assets/b4ea5c2c-d6fd-4114-b553-f812e5e76cb9" />
+
 
 ---
 
