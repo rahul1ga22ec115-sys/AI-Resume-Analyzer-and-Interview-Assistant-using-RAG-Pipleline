@@ -1,0 +1,2 @@
+# AI-Resume-Analyzer-and-Interview-Assistant-using-RAG-Pipleline
+AI Resume Analyzer &amp; Interview Assistant is a Streamlit-based application that compares resumes with job descriptions using RAG, FAISS, LangChain, and Ollama. It provides ATS match analysis, identifies missing skills, generates interview questions, and enables document-based chat using a local Qwen 2.5 model for accurate, context-aware responses.
